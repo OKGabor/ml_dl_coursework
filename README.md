@@ -57,31 +57,11 @@ The fourth assignment is yet to be completed and will be updated in due course. 
 
 ---
 
-### How to Use This Repository
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/OKGabor/ml_dl_coursework.git
-    ```
-2. Navigate to the desired assignment folder.
-3. Open the corresponding Jupyter notebook to explore the implementation and results.
 
-### Requirements
-- Python 3.x
-- Jupyter Notebook
-- Libraries: numpy, pandas, matplotlib, seaborn, tensorflow, keras, scikit-learn, PIL
 
 ### Acknowledgements
-This repository contains coursework completed as part of the MSc in Business Analytics at NOVA SBE. 
+This repository contains assignments completed as part of the [MSc in Business Analytics](https://www.novasbe.unl.pt/en/programs/masters/business-analytics/overview) course at NOVA SBE. 
 
 Feel free to explore the notebooks and reach out if you have any questions or suggestions!
 
----
 
-**Contact Information:**
-- **Name:** Gabor OK
-- **Email:** [your-email@example.com]
-- **LinkedIn:** [Your LinkedIn Profile]
-
----
-
-Thank you for visiting my repository!
