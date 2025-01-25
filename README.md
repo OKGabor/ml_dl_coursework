@@ -1,6 +1,6 @@
 # Machine Learning Coursework - NOVA SBE MSc in Business Analytics
 
-This repository showcases my completed assignments from the Machine Learning course in my MSc in Business Analytics at NOVA SBE. It includes practical implementations and solutions in the areas of classic machine learning, deep learning, and natural language processing (NLP).
+This repository showcases my completed assignments from the Machine Learning course in my MSc in Business Analytics at NOVA SBE. It includes practical implementations and solutions in the areas of classic machine learning, deep learning, and natural language processing (NLP). The goal of this repository is to showcase my proficiency in various ML and DL algorithms, model evaluation techniques, and real-world applications.
 
 ## Table of Contents
 - [Assignment 1: ABC Analysis](#assignment-1-abc-analysis)
@@ -60,8 +60,7 @@ The fourth assignment is yet to be completed and will be updated in due course. 
 
 
 ### Acknowledgements
-This repository contains assignments completed as part of the [MSc in Business Analytics](https://www.novasbe.unl.pt/en/programs/masters/business-analytics/overview) course at NOVA SBE. 
+This repository contains assignments completed as part of the [MSc in Business Analytics](https://www.novasbe.unl.pt/en/programs/masters/business-analytics/overview) Machine Learning course at NOVA SBE. 
 
-Feel free to explore the notebooks and reach out if you have any questions or suggestions!
 
 
